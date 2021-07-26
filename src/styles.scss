@@ -7,5 +7,40 @@ body {
 }
 body {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif !important;
 }
+
+*:focus {
+  outline: none;
+}
+
+.dark-green{
+  background-color: #262E20;
+  color: #fff;
+}
+
+.medium-green{
+  background-color: #4A7158;
+  color: #fff;
+}
+
+.light-green{
+  background-color: #72917D;
+  color: #fff;
+}
+
+.dark-gray{
+  background-color: #343533;
+  color: #fff;
+}
+
+.white-gray{
+  background-color: #fff;
+  color: #343533;
+}
+
+.black{
+  font-weight: 900;
+}
+
+
