@@ -1,3 +1,4 @@
+
 .home {
   height: 100vh;
   width: 100vw;
@@ -142,4 +143,16 @@ button:active{
 .title-info{
   font-weight: 600;
   font-size: 18px;
+}
+
+::ng-deep .mat-progress-bar-fill::after {
+  background-color: #4A7158
+}
+
+::ng-deep .mat-progress-bar-buffer {
+  background: #E4E8EB;
+}
+
+::ng-deep .mat-progress-bar {
+  border-radius: 5px;
 }

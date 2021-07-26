@@ -24,7 +24,11 @@
       <input type="text" placeholder="token for access">
     </div>
 
-    <button type="submit">search</button>
+    <button type="button" (click)="search()">search</button>
+
+    <br>
+    <br>
+    <mat-progress-bar *ngIf="carregando"  mode="indeterminate"></mat-progress-bar>
 
   </div>
 
