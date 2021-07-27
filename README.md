@@ -1,7 +1,16 @@
-# SpotifySearch
-
+# Spotify Search
+![Spotify Search](hhttps://prnt.sc/1gnp52w)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
+It was created with the intention of **studying** some **web development** and **UI/UX Design** processes, such as **prototyping** and **interface ideation**, *API Rest* consumption, application publishing on **GitHub Pages** and **unit testing**.
+
+Tools and Enviroment
+
+ - [ ] Figma
+ - [ ] VS Code
+ - [ ] Angular
+ - [ ] TypeScript
+ - [ ] gh-pages
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
