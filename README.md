@@ -1,5 +1,6 @@
 # Spotify Search
-![Spotify Search](hhttps://prnt.sc/1gnp52w)
+![Spotify Search](https://github.com/roziana-rdrgs/spotify-search/blob/header.png?raw=true)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
 It was created with the intention of **studying** some **web development** and **UI/UX Design** processes, such as **prototyping** and **interface ideation**, *API Rest* consumption, application publishing on **GitHub Pages** and **unit testing**.
