@@ -1,5 +1,5 @@
 # Spotify Search
-![Spotify Search](https://github.com/roziana-rdrgs/spotify-search/blob/header.png?raw=true)
+![Spotify Search](https://github.com/roziana-rdrgs/spotify-search/blob/master/header.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
